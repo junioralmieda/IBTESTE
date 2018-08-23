@@ -1,1 +1,3 @@
-const init = () => {};
+const init = teste => {
+  return teste;
+};
